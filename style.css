@@ -1,0 +1,33 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.game-container {
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0 0 20px;
+}
+
+.score {
+    color: #fff;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+canvas {
+    border: 4px solid #fff;
+    margin-bottom: 20px;
+    background-color: #000;
+}

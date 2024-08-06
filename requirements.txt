@@ -1,0 +1,3 @@
+# There are no specific requirements for running this JavaScript project as it only uses vanilla HTML, CSS, and JavaScript.
+
+However, it is recommended to use a modern web browser such as Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge for the best experience.
