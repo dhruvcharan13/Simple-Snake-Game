@@ -1,6 +1,6 @@
 # Snake Game
 
-This project is a JavaScript implementation of the classic game Snake. It's a simple yet fun game to play in your web browser.
+This project is a JavaScript implementation of the classic game Snake.
 
 ## How to Play
 
